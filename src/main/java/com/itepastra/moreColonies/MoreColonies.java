@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.itepastra.moreColonies;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
